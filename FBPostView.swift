@@ -1,4 +1,4 @@
-/*  
+/**  
  *  Author: Meer Abdullah
  *  Date: 6/8/21.
  *  Synopsis: ViewControllerPractice
@@ -8,7 +8,6 @@
  *  (i.e., color of the persons name, their picture, what
  *  they say in the post, likes/comment/shares buttons, etc) 
  */
-
 import Foundation
 import SwiftUI
 
