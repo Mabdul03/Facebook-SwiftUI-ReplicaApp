@@ -9,7 +9,6 @@
  *  replicate the facebook UI, and additional features like
  *  horizontal scrolling (stories), and vertical scrolling (posts) 
  */
-
 import SwiftUI
 
 // struct to define what information is within a facebook post
