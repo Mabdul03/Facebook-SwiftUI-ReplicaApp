@@ -4,7 +4,6 @@
  *  Synopsis: ViewControllerPractice
  *  Facebook App Replica (in terms of the UI atleast) 
  */
-
 import SwiftUI
 
 @main
