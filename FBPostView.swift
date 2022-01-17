@@ -1,11 +1,13 @@
-/*  Author: Meer Abdullah
+/*  
+ *  Author: Meer Abdullah
  *  Date: 6/8/21.
  *  Synopsis: ViewControllerPractice
  *  Facebook App Replica (in terms of the UI atleast)
  *  This swift file deals with button management, and
  *  deals with how the posts are formatted on the UI
  *  (i.e., color of the persons name, their picture, what
- *  they say in the post, likes/comment/shares buttons, etc) */
+ *  they say in the post, likes/comment/shares buttons, etc) 
+ */
 
 import Foundation
 import SwiftUI
