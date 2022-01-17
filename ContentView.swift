@@ -1,4 +1,5 @@
-/*  Author: Meer Abdullah
+/** 
+ * Author: Meer Abdullah
  *  Date: 6/8/21.
  *  Synopsis: ViewControllerPractice
  *  Facebook App Replica (in terms of the UI atleast)
@@ -6,7 +7,8 @@
  *  that is going to be on the posts themselves.
  *  There is also more info added... such as images to
  *  replicate the facebook UI, and additional features like
- *  horizontal scrolling (stories), and vertical scrolling (posts) */
+ *  horizontal scrolling (stories), and vertical scrolling (posts) 
+ */
 
 import SwiftUI
 
