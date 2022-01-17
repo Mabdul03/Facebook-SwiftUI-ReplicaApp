@@ -1,4 +1,5 @@
-/*  Author: Meer Abdullah
+/** 
+ * Author: Meer Abdullah
  *  Date: 6/8/21.
  *  Synopsis: ViewControllerPractice
  *  Facebook App Replica (in terms of the UI atleast)
@@ -10,7 +11,8 @@
  *  The stories are assets (pictures), just to be a placeholder
  *  to display the functionality of StoriesView.
  *  (once again, there is no database/back end development tied to
- *  this app so far, used for developmental purposes for SwiftUI programming. */
+ *  this app so far, used for developmental purposes for SwiftUI programming. 
+ */
 
 import Foundation
 import SwiftUI
