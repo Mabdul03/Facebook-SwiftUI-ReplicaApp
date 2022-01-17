@@ -13,7 +13,6 @@
  *  (once again, there is no database/back end development tied to
  *  this app so far, used for developmental purposes for SwiftUI programming. 
  */
-
 import Foundation
 import SwiftUI
 struct StoriesView: View{
